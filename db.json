@@ -13,10 +13,8 @@
         {
           "id": 1,
           "title": "Ticket 1 - GHT Annual Pass ticket February 2032",
-          "description":
-            "1 ticket is valid for 1 person! We ask that you wear a mask if you aren't exempt. We are following the government guidelines on social distancing and we ask that all our guests follow the guidance too, where possible.",
-          "entityTitle":
-            "Snow GRAY and The Happy MONDAY Golf Club: Watch From Home",
+          "description": "1 ticket is valid for 1 person! We ask that you wear a mask if you aren't exempt. We are following the government guidelines on social distancing and we ask that all our guests follow the guidance too, where possible.",
+          "entityTitle": "Snow GRAY and The Happy MONDAY Golf Club: Watch From Home",
           "price": 100,
           "tax": 100,
           "fee": 100,
